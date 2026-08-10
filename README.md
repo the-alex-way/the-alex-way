@@ -3,13 +3,13 @@
 **Аналитик данных · Продуктовая и бизнес-аналитика**
 
 <p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yandex_DataLens-2B2B2B?style=flat-square&logo=yandex&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ### Доставка еды — бизнес-метрики
 `Python` · `продуктовая аналитика` · `когортный анализ` · `Yandex DataLens`
 
-Рассчитал ключевые продуктовые метрики для 5 572 пользователей и выявил 
+Рассчитал ключевые продуктовые и бизнес-метрики для 5 572 пользователей и выявил 
 критически низкий Retention 7-го дня — 4%. Определил точки роста и подготовил 
 рекомендации по удержанию пользователей и развитию ассортимента.
 
