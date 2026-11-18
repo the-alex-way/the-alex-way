@@ -44,7 +44,7 @@
 [Все проекты](https://github.com/the-alex-way/data-analyst-portfolio)
 
 
-### Яндекс Афиша — анализ продаж
+### Яндекс Афиша - анализ продаж
 `SQL` · `PostgreSQL` · `Python` · `Yandex DataLens`
 
 Проанализировал 286 тыс. заказов на 157 млн ₽, выявил ключевые драйверы 
@@ -64,7 +64,7 @@
 [Открыть](https://github.com/the-alex-way/data-analyst-portfolio/tree/main/10-ab-test-recommendation-algorithm-analysis)
 
 
-### Доставка еды — бизнес-метрики
+### Доставка еды - бизнес-метрики
 `Python` · `продуктовая аналитика` · `когортный анализ` · `Yandex DataLens`
 
 Рассчитал ключевые продуктовые и бизнес-метрики для 5 572 пользователей и выявил 
